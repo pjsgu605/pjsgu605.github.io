@@ -9,7 +9,7 @@ The tribal page for the tribe I am enrolled in is [Rosebud Sioux Tribe](https://
 - Computer Technician
 - 
  ### Some Favorite Maps
- <embed type="text/html" src="/img/map-deomstration.html" height="650" width="850">
+ <embed type="text/html" src="/img/cu_boulder.html" height="650" width="850">
 
 # Syllabus - ESIIL Data Short Course 2026
 Welcome to the Environmental Data Science Innovation and Impact Lab (ESIIL) Data Short Course 2026! We are excited to have you in class for the next 2 weeks as we introduce you to Earth and Environmental Data Science (EDS) fundamentals using GitHub and Python.
