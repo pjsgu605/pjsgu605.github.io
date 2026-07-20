@@ -13,6 +13,6 @@ The website for the federally recognized tribe I am enrolled in is [Rosebud Siou
 
 - GitHub: @pjsgu605 
   
- ### Some Favorite Maps
+ ### Some of my Favorite Maps
  <embed type="text/html" src="/img/cu_boulder.html" height="650" width="850">
 
