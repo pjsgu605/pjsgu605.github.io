@@ -1,7 +1,9 @@
 # My Backgroud
 Hello Everyone:) My name is Pauline Jackson and I am currently a Computer Technician at Sinte Gleska University in South Dakota. 
-I aim to continue to be a life long learner. I have my Bachelors in Computer Science and my Associates in Human Services.
+I aim to continue to be a life long learner.
 In my undergrad I worked mostly with C++ but am excited to be learning Markdown and Python.
+ * A.A. in Human Services
+ *  B.S. in Computer Science
 I appreciate you all for being on my journey with ESIIL Data Short Course with me.
 
 ### Some website and picture tests below
@@ -14,5 +16,6 @@ The website for the federally recognized tribe I am enrolled in is [Rosebud Siou
 - GitHub: @pjsgu605 
   
  ### Some of my Favorite Maps
- <embed type="text/html" src="/img/cu_boulder.html" height="650" width="850">
+ <embed type="text/html" src="/img/cu_boulder.html" height="650" width="850">  <!-- Nate cu boulder map -->
+ 
 
