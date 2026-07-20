@@ -25,4 +25,4 @@ The website for the federally recognized tribe I am enrolled in is [Rosebud Siou
 ##### Lilly's Boulder Climate Map
  <embed type="text/html" src="/img/boulder_plot.html" width="600" height="600">
  
-### next talking point
+### next section
