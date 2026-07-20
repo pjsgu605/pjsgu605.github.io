@@ -9,7 +9,7 @@ I appreciate you all for being on my journey with ESIIL Data Short Course with m
 My favorite Tribal College and University website is [Sinte Gleska University](https://www.sintegleska.edu/)  
 The website for the federally recognized tribe I am enrolled in is [Rosebud Sioux Tribe](https://www.rosebudsiouxtribe-nsn.gov/)  
 ![Image test](https://static.wixstatic.com/media/ed1fef_3839d6384a064eb3ab6db71b78d84e64~mv2.png/v1/fill/w_780,h_677,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/RST%20Innner_edited_edited.png)  
-![pjackson lbordeaux image](/img/image_test_from_computer.jpg)  
+[ ![pjackson lbordeaux image](/img/image_test_from_computer.jpg)  ]: #
 
 - GitHub: @pjsgu605 
   
