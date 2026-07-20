@@ -3,7 +3,7 @@ Hello Everyone:) My name is Pauline Jackson and I am currently a Computer Techni
 I aim to continue to be a life long learner.
 In my undergrad I worked mostly with C++ but am excited to be learning Markdown and Python.
  * A.A. in Human Services
- *  B.S. in Computer Science
+ *  B.S. in Computer Science 
 I appreciate you all for being on my journey with ESIIL Data Short Course with me.
 
 ### Some website and picture tests below
