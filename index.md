@@ -17,8 +17,8 @@ The website for the federally recognized tribe I am enrolled in is [Rosebud Siou
   
 ### Some of my Favorite Maps
 #### Nate's CU Boulder Map
- <embed type="text/html" src="/img/cu_map.html" height="650" width="850">   
+ <embed type="text/html" src="/img/cu_map.html" height="650" width="850"> 
 #### Pauline's Black Elk Peak Trail Map
- <embed type="text/html" src="/img/betrail_map.html" height="650" width="850">   
+ <embed type="text/html" src="/img/betrail_map.html" height="650" width="850"> 
  
 ### next talking point
