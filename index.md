@@ -16,7 +16,7 @@ The website for the federally recognized tribe I am enrolled in is [Rosebud Siou
 - GitHub: @pjsgu605 
   
  ### Some of my Favorite Maps
- <embed type="text/html" src="/img/cu_map_trans.html" height="650" width="850"> 
+ <embed type="text/html" src="/img/cu_map.html" height="650" width="850"> 
    <!-- Nate cu boulder map -->
  
 
